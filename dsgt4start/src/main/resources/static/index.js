@@ -23,7 +23,7 @@ function setupAuth() {
   let firebaseConfig;
   if (location.hostname === "localhost") {
     firebaseConfig = {
-      apiKey: "AIzaSyBoLKKR7OFL2ICE15Lc1-8czPtnbej0jWY",
+      apiKey: "to be added",
       projectId: "demo-distributed-systems-kul",
     };
   } else {
